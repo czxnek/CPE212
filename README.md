@@ -1,2 +1,2 @@
 # CS214 Fibonacci Algorithm
-CS214 C++ Projects
+SOME PROJECTS ARE UNFINISHED; USE AT OWN RISK
