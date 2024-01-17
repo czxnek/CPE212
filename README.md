@@ -1,2 +1,2 @@
-# CPE212
-CPE212 C++ Projects
+# CS214 Fibonacci Algorithm
+CS214 C++ Projects
